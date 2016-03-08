@@ -1,7 +1,7 @@
 name: Ever The Patriot
 favicon: null
-layout_spectrum: 0.5075876645278186
-typography_spectrum: 0.0891228336840868
+layout_spectrum: 0.48789
+typography_spectrum: 0.24684
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#fefefe'
+    - '#242178'
+    - '#cb1d1e'
+    - '#808080'
+    - '#cacaca'
   brandStrength: 0.47283664788119495
   lightness: 0.9395672786049545
   saturation: 0.7105539233889431
