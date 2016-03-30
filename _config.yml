@@ -1,28 +1,40 @@
-name: Ever The Patriot
 favicon: null
-layout_spectrum: 0.48789
-typography_spectrum: 0.24684
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Ever The Patriot
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7105539
+  brandStrength: 0.4728366478811949
+  lightness: 0.931903
   brandColors:
     - '#fefefe'
     - '#242178'
     - '#cb1d1e'
     - '#808080'
     - '#cacaca'
-  brandStrength: 0.47283664788119495
-  lightness: 0.9395672786049545
-  saturation: 0.7105539233889431
-  rhythmicContrast: 0.9734910714905709
-purpose: []
+  rhythmicContrast: 0.9734911
+typography_spectrum: 0.24684
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.48789
+analytics:
+  twitter: null
+  google: null
+  facebook: null
